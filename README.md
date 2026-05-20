@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Innocent91-hub
+- 👋 Hi, I'm Innocent Nwohiri 👋
+- Data Analyst | Business Intelligence Expert
 - 👀 I’m interested in Creativity
 - 🌱 I’m currently learning AiCE
 - 💞️ I’m looking to collaborate on creativity
