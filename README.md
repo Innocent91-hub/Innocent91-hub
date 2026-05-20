@@ -1,5 +1,3 @@
-<p align="left">Hi, Innocent Nwohiri</p>
-
 ###
 
 <p align="left">Data Analyst | Business Intelligence Expert</p>
